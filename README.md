@@ -22,5 +22,5 @@ Additionally, in order to make the information more visually understandable to t
 - Creating Travel Plan
 
 Lastly, we enabled the program to provide a psudo travel plan for the user to help then plan out a trip that spans multiple cities. Here we displayed an informative map that would map out the route for which the user can travel between the cities and also the markers for each city so that they can see the weather conditions.
-![]()
-![]()
+![](https://github.com/chichi-ugo/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png?raw=true)
+![](https://github.com/chichi-ugo/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png?raw=true)
