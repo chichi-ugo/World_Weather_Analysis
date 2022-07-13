@@ -17,7 +17,7 @@ Another goal in this project was to ensure that our platform could take in user 
 - Generateing Vacation Map
 
 Additionally, in order to make the information more visually understandable to the user, our output includes a map with markers indicationg the cities worldwide that fall into the users preferences. Upon clicking on the markers, information about the city's weather is displayed aswell.
-![]()
+![](https://github.com/chichi-ugo/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png?raw=true)
 
 - Creating Travel Plan
 
