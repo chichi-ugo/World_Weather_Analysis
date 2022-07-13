@@ -7,12 +7,12 @@ In this analysis, we aimed to create a platform for consumers to serach worldwid
 - Compiling Weather Data
 
 Our first goal in this project was to compile the appropriate data together in order to create a dataframe that contains the cities, countries, and thier respective weather conditions. By accomplishing this, we were then able to use this information to fulfill our other goals.
-![]()
+![](https://github.com/chichi-ugo/World_Weather_Analysis/blob/main/weather_data/weather_data_df.PNG?raw=true)
 
 - User Input
 
 Another goal in this project was to ensure that our platform could take in user inputs for weather criteria in order to narrow their search. When prompted, the user is to put in their maximum and minimum temperature preference so that our system can return cities around the world fall within the desired range.
-![]()
+![](https://github.com/chichi-ugo/World_Weather_Analysis/blob/main/weather_data/user_input_temps.PNG?raw=true)
 
 - Generateing Vacation Map
 
